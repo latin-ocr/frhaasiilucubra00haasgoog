@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./frhaasiilucubra00haasgoog_0006.png"; bbox 0 0 3010 4812; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 346 971 1094 1146">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 346 971 1094 1146">
+     <span class='ocr_line' id='line_1_1' title="bbox 346 971 1094 1146; baseline -0.008 -5"><span class='ocrx_word' id='word_1_1' title='bbox 346 975 540 1142; x_wconf 72' lang='lat' dir='ltr'><strong>Fr.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 614 971 1094 1146; x_wconf 68' lang='lat' dir='ltr'><strong><em>Haasii</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 507 1286 952 1376">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 507 1286 952 1376">
+     <span class='ocr_line' id='line_1_2' title="bbox 507 1286 952 1376; baseline 0.009 -24"><span class='ocrx_word' id='word_1_3' title='bbox 507 1287 580 1376; x_wconf 86' lang='lat' dir='ltr'>phil.</span> <span class='ocrx_word' id='word_1_4' title='bbox 602 1289 664 1369; x_wconf 67' lang='lat' dir='ltr'><strong>Dr„</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 686 1286 769 1358; x_wconf 80' lang='lat' dir='ltr'><strong>Prof.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 791 1291 952 1358; x_wconf 80' lang='lat' dir='ltr'><strong>Vratislav.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 228 1710 1229 1893">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 1597 1229 1904">
+     <span class='ocr_line' id='line_1_3' title="bbox 228 1710 1229 1893; baseline 0.015 -45.661"><span class='ocrx_word' id='word_1_7' title='bbox 228 1710 730 1867; x_wconf 66' lang='lat' dir='ltr'><strong>Lucubrationes</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 784 1713 1229 1893; x_wconf 72' lang='lat' dir='ltr'><strong>Thucydidiae.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 2301 1 2950">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 2301 1 2950">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 2301 1 2950; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 2301 1 2950; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1510 4812">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1510 4812">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1510 4812; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1510 4812; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
